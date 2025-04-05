@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.pkl
+*.pyc
+.venv/
+.vscode/
+.vercel/
+.render/
