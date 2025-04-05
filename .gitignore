@@ -1,8 +1,25 @@
+# Python cache
 __pycache__/
-.env
-*.pkl
 *.pyc
+
+# Virtual Environment
 .venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+
+# IDE specific
 .vscode/
+
+# Vercel & Render configs
 .vercel/
 .render/
+
+# Model files — REMOVE this line to include .pkl files
+#*.pkl
+
+# OS junk
+.DS_Store
+Thumbs.db

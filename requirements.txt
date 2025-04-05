@@ -1,6 +1,5 @@
-Flask
-pandas
+flask
+gunicorn
 numpy
 scikit-learn
-gunicorn
-
+huggingface_hub
